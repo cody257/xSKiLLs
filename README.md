@@ -2,7 +2,7 @@
 
 Five portable skills for directing AI-assisted projects: Learn, Experiment, Build, Release, and Maintain. They help an agent understand intent, explain consequential choices, complete authorized work, and preserve useful context.
 
-**Status:** v0.2.0, available for use and testing. Structural validation and installation checks passed in Codex; testing in unrelated projects and other clients remains pending. These are instructions, not an access-control system or a guarantee of agent behavior.
+**Status:** v0.2.0, available for use. Structural validation and installation checks passed in Codex. These are instructions, not an access-control system or a guarantee of agent behavior.
 
 ## The five skills
 
