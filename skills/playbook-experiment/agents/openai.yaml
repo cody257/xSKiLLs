@@ -1,0 +1,4 @@
+interface:
+  display_name: "Playbook: Experiment"
+  short_description: "Test an idea within clear, reversible bounds"
+  default_prompt: "Use $playbook-experiment to test this idea in a bounded trial and explain what the evidence shows."

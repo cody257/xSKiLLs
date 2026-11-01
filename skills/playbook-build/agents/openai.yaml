@@ -1,0 +1,4 @@
+interface:
+  display_name: "Playbook: Build"
+  short_description: "Deliver an agreed outcome and verify it"
+  default_prompt: "Use $playbook-build to implement the agreed outcome, handle routine work, and verify the result."

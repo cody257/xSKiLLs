@@ -1,0 +1,4 @@
+interface:
+  display_name: "Playbook: Maintain"
+  short_description: "Keep existing projects accurate and healthy"
+  default_prompt: "Use $playbook-maintain to handle the requested upkeep, preserve existing behavior, and verify the changes."

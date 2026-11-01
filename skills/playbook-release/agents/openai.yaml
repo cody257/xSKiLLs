@@ -1,0 +1,4 @@
+interface:
+  display_name: "Playbook: Release"
+  short_description: "Finish, verify, and deliver the agreed scope"
+  default_prompt: "Use $playbook-release to verify the agreed scope, resolve release blockers, and report readiness with evidence."
