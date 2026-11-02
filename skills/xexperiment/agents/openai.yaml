@@ -1,0 +1,4 @@
+interface:
+  display_name: "xExperiment"
+  short_description: "Test an idea within clear, reversible bounds"
+  default_prompt: "Use $xexperiment to test this idea in a bounded trial and explain what the evidence shows."

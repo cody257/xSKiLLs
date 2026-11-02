@@ -1,0 +1,4 @@
+interface:
+  display_name: "xBuild"
+  short_description: "Deliver an agreed outcome and verify it"
+  default_prompt: "Use $xbuild to implement the agreed outcome, handle routine work, and verify the result."

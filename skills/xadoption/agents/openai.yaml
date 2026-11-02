@@ -1,0 +1,4 @@
+interface:
+  display_name: "xAdoption"
+  short_description: "Adopt shared standards into any project"
+  default_prompt: "Use $xadoption to establish the shared engineering foundation for this project and verify the applicable checks."

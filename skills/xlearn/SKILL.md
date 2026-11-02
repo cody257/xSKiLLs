@@ -1,9 +1,9 @@
 ---
-name: playbook-learn
+name: xlearn
 description: "Explain concepts, investigate existing behavior, and compare options when the user wants understanding or advice before deciding whether to act."
 ---
 
-# Playbook: Learn
+# xLearn
 
 Help the user understand an idea or decision well enough to choose their next step.
 

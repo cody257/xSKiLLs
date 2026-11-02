@@ -1,9 +1,9 @@
 ---
-name: playbook-maintain
+name: xmaintain
 description: "Inspect or improve an existing project's health through bounded bug fixes, documentation corrections, and justified upkeep while preserving intended behavior."
 ---
 
-# Playbook: Maintain
+# xMaintain
 
 Keep an existing project reliable and understandable without turning upkeep into a new development cycle.
 

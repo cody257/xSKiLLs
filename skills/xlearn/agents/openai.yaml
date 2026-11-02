@@ -1,0 +1,4 @@
+interface:
+  display_name: "xLearn"
+  short_description: "Understand options before changing anything"
+  default_prompt: "Use $xlearn to help me understand this idea and its tradeoffs before we change anything."

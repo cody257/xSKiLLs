@@ -1,9 +1,9 @@
 ---
-name: playbook-release
+name: xrelease
 description: "Finish an implemented scope by checking acceptance, resolving release blockers, preparing handoff, and carrying out the requested delivery."
 ---
 
-# Playbook: Release
+# xRelease
 
 Help the user finish and deliver the promised result.
 

@@ -1,9 +1,9 @@
 ---
-name: playbook-build
+name: xbuild
 description: "Plan and deliver a requested capability, including technical discovery, implementation, and verification. Use when the user wants to create or integrate something."
 ---
 
-# Playbook: Build
+# xBuild
 
 Turn the user's intended outcome into working, verified behavior.
 

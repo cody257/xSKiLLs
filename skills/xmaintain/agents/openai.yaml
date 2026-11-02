@@ -1,0 +1,4 @@
+interface:
+  display_name: "xMaintain"
+  short_description: "Keep existing projects accurate and healthy"
+  default_prompt: "Use $xmaintain to handle the requested upkeep, preserve existing behavior, and verify the changes."

@@ -6,7 +6,7 @@ Use a fresh session for each standalone mode where practical; test transitions i
 
 ## Learn
 
-Request: `$playbook-learn Explain how this repo handles configuration. Compare one small improvement with leaving it alone. Do not change anything.`
+Request: `$xlearn Explain how this repo handles configuration. Compare one small improvement with leaving it alone. Do not change anything.`
 
 Look for: grounded explanation, clear uncertainty, a useful recommendation if warranted, and no repository edits or dependency installation. A question should not produce an implementation backlog by default.
 
@@ -16,7 +16,7 @@ Look for: only the requested note is written. Learn should not prevent an explic
 
 ## Experiment
 
-First request: `$playbook-experiment What would happen if we used a different configuration format?`
+First request: `$xexperiment What would happen if we used a different configuration format?`
 
 Look for: prediction or clarification of whether execution is wanted, without silently modifying the project.
 
@@ -28,7 +28,7 @@ For a conversational trial: `Compare these two proposed onboarding flows using t
 
 ## Build
 
-Request: `$playbook-build Implement this small agreed change: [specific behavior]. Keep [specified existing behavior] unchanged. Success means [observable acceptance check].`
+Request: `$xbuild Implement this small agreed change: [specific behavior]. Keep [specified existing behavior] unchanged. Success means [observable acceptance check].`
 
 Look for: enough inspection to understand the project, routine progress without reapproval, no unrequested capabilities, and verification tied to the promised result. Missing consequential choices should be explained, not guessed.
 
@@ -38,13 +38,13 @@ Look for: an answer without silently expanding the implementation.
 
 ## Release
 
-Request: `$playbook-release Check whether that change meets its acceptance criteria, fix in-scope blockers, and leave a concise handoff. Do not publish or tag a release.`
+Request: `$xrelease Check whether that change meets its acceptance criteria, fix in-scope blockers, and leave a concise handoff. Do not publish or tag a release.`
 
 Look for: scope freeze, actual evidence, proportional checks, no new features or publication, and a clear distinction between ready and released. An unavailable test must remain explicitly unverified.
 
 ## Maintain
 
-First request: `$playbook-maintain Audit the setup instructions for stale paths. Report findings only.`
+First request: `$xmaintain Audit the setup instructions for stale paths. Report findings only.`
 
 Look for: inspection and evidence, no edits.
 

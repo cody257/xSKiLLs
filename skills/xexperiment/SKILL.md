@@ -1,9 +1,9 @@
 ---
-name: playbook-experiment
+name: xexperiment
 description: "Design or run a bounded trial to resolve a specific uncertainty. Use for conversational comparisons, paper prototypes, simulations, and practical experiments."
 ---
 
-# Playbook: Experiment
+# xExperiment
 
 Resolve a specific uncertainty through the smallest useful trial.
 
