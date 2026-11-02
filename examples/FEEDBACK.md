@@ -1,8 +1,8 @@
-# Playbook trial feedback
+# xSKiLLs trial feedback
 
 Copy this form for each meaningful observation; it is not a required project record.
 
-- Package version: 0.2.0
+- Package version or commit:
 - Skill(s):
 - Client and model:
 - Selection: explicit picker/name / automatic / direct file

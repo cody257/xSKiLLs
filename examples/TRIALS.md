@@ -1,4 +1,4 @@
-# External trial guide — v0.2.0
+# xSKiLLs external trial guide
 
 Use real, small tasks in the unrelated project. The prompts below are examples to adapt, not commands to run all at once. The owner chooses the actual target and allowed changes. No trial needs production access, publication, new services, or a paid API.
 

@@ -1,4 +1,4 @@
-# Playbook x skills
+# xSKiLLs
 
 Six project skills. Display names use the `x` prefix; invocation identifiers are lowercase.
 
@@ -13,7 +13,7 @@ Six project skills. Display names use the `x` prefix; invocation identifiers are
 
 ## Installation
 
-Copy the selected directories under `skills/` into your user-level skills directory or a project's `.agents/skills/`. Inspect existing installations before replacing anything. These names replace the earlier `playbook-*` identifiers; preserve any local modifications when migrating.
+Copy the selected directories under `skills/` into your user-level skills directory or a project's `.agents/skills/`. Inspect existing installations before replacing anything. These names replace the earlier skill identifiers; preserve any local modifications when migrating.
 
 For **xAdoption**, also retain the shared `STANDARDS/` directory. Its repository links work from this checkout. When installing elsewhere, rewrite the five links in `skills/xadoption/SKILL.md` to the permanent shared location. Keep one authoritative standards directory rather than copying it into every project.
 
