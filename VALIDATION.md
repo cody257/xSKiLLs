@@ -1,8 +1,18 @@
-# xSKiLLs validation history — v0.2.0
+# xSKiLLs validation history
+
+## 2026-11-06 — Shared behaviors and hand-offs
+
+- Added `STANDARDS/rules/shared-behaviors.md` and updated all six skills to reference it plus relevant domain rules.
+- Added short hand-off guidance to each skill.
+- Added `examples/EXAMPLES.md`.
+- Confirmed each skill remains concise (under ~250 words including the new hand-off), uses the shared clarifying-question pattern, and preserves scope boundaries.
+- Skills still consist of SKILL.md + UI metadata only; no scripts or runtime dependencies introduced.
+
+## 2026-10-31 — v0.2.0
 
 Date: October 31, 2026
 
-## Completed
+### Completed
 
 - Ran the bundled skill-creator `quick_validate.py` against all five skill directories: all passed. This checks frontmatter, naming, and unfinished scaffold markers.
 - Parsed all five `agents/openai.yaml` files. Each default prompt names its own skill and each short description meets the documented length constraint.
@@ -15,6 +25,6 @@ Date: October 31, 2026
 
 All five approved concise skills were installed at user scope on the development device and byte-verified against the project copies. Existing UI metadata was preserved. Local drafts, backups, and generated archives are excluded from the repository.
 
-## Feedback
+### Feedback
 
 Use examples/FEEDBACK.md to share concrete observations. Revise where evidence supports a change, then revalidate affected packages.
