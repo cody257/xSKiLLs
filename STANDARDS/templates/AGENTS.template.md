@@ -2,7 +2,7 @@
 
 Preserve existing work and keep changes within the requested scope. Define observable success before implementation. Verify assumptions against project files; do not invent commands, architecture, or deployment details.
 
-Read the relevant shared standards before acting:
+Follow [shared behaviors]({{STANDARDS_ROOT}}/rules/shared-behaviors.md). Read the relevant shared standards before acting:
 
 - [Testing]({{STANDARDS_ROOT}}/rules/testing.md): tests and behavioral evidence.
 - [Safety]({{STANDARDS_ROOT}}/rules/safety.md): data, permissions, and secrets.
