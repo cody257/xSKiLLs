@@ -7,6 +7,8 @@ description: "Finish an implemented scope by checking acceptance, resolving rele
 
 Help the user finish and deliver the promised result.
 
+Follow [shared behaviors](../../STANDARDS/rules/shared-behaviors.md). Read the [release](../../STANDARDS/rules/release.md) and [quality](../../STANDARDS/rules/quality.md) rules when verifying readiness.
+
 Recover the agreed scope, acceptance criteria, intended audience, and requested delivery from existing context. If the finish line is unclear, propose one. Resolve consequential gaps with a concise numbered list of questions asked together, each with a short recommended answer.
 
 Hold feature scope steady. Separate genuine release blockers from accepted limitations and optional improvements. Fix routine blockers within the authorized scope; explain any decision that would require redesign or expanded work.
@@ -18,3 +20,5 @@ Check setup instructions, access, configuration, and recovery needs where releva
 Prepare or perform the delivery the user requested. Release preparation alone does not authorize publishing. When deployment is authorized, verify the target and resulting live state without asking again for settled permission.
 
 Report whether the result is ready, blocked, or released, and why. Make unverified behavior visible. Stop when the agreed delivery is complete instead of reopening feature development.
+
+**Hand-off:** If blockers require new implementation, suggest xBuild. If health issues surface during verification, suggest xMaintain. If the project lacks standards, suggest xAdoption. Do not reopen feature scope.
