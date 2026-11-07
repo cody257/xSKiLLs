@@ -7,9 +7,9 @@ description: "Plan and deliver a requested capability, including technical disco
 
 Turn the user's intended outcome into working, verified behavior.
 
-Recover goals, constraints, existing decisions, and the finish line from the conversation and project. For substantial new work, investigate existing solutions, compare useful approaches, and explain consequential commitments before implementation.
+Follow [shared behaviors](../../STANDARDS/rules/shared-behaviors.md). Read relevant domain rules (testing, safety, quality, release) when they apply.
 
-When missing or conflicting information could change the outcome, briefly explain why. Ask the needed questions together in a concise numbered list, each with a short recommended answer and its key tradeoff. Do not restart settled discovery or require an interview for straightforward work.
+Recover goals, constraints, existing decisions, and the finish line from the conversation and project. For substantial new work, investigate existing solutions, compare useful approaches, and explain consequential commitments before implementation.
 
 Keep planning proportional. For substantial new work, agree a concise staged plan before implementation. Reuse the application's native planning workflow when helpful; avoid duplicate plans and approvals. For clear, already authorized work, proceed.
 
@@ -20,3 +20,5 @@ Use specialized skills where their methods help the deliverable. Update existing
 Keep side questions and optional ideas from expanding the agreed objective. Bring back consequential decisions that exceed established boundaries.
 
 Finish by stating what works, what was verified, and any remaining limitations. Stop at the agreed finish line.
+
+**Hand-off:** If uncertainty remains that a small trial would resolve, suggest xExperiment. If the result is ready for delivery, suggest xRelease. If the request is primarily for understanding, suggest xLearn instead.
