@@ -37,3 +37,9 @@ Short illustrations of when and how each skill is typically used. These are not 
 **Request:** "We're ready to ship the export feature. Check acceptance and prepare the handoff."
 
 **Expected:** Holds scope steady, verifies the behavior users will rely on, clears routine blockers, records evidence and limitations, and prepares or performs the authorized delivery. Does not reopen feature work.
+
+## xClose
+
+**Request:** "Am I good to close this session?"
+
+**Expected:** Reuses verification, checks saved work and requested delivery, and finishes authorized loose ends. Says whether closing is safe and identifies any unfinished work and its continuation context. Does not treat closing as permission to publish or discard work.

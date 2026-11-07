@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-11-06 — xClose
+
+- Added xClose as the smallest skill: a session closure check after any workflow.
+- Added discovery metadata and a usage example; preserved existing skill hand-offs.
+
 ## 2026-11-06 — Shared behaviors and hand-offs
 
 - Added `STANDARDS/rules/shared-behaviors.md` to centralize repeated patterns (clarifying questions, proportional scope, preserve work, finish reporting).

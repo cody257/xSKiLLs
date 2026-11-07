@@ -1,6 +1,6 @@
 # xSKiLLs
 
-Six project skills. Display names use the `x` prefix; invocation identifiers are lowercase.
+Seven project skills. Display names use the `x` prefix; invocation identifiers are lowercase.
 
 | Display name | Invocation | Purpose |
 | --- | --- | --- |
@@ -10,6 +10,9 @@ Six project skills. Display names use the `x` prefix; invocation identifiers are
 | xLearn | `$xlearn` | Understand behavior and compare options |
 | xMaintain | `$xmaintain` | Inspect or fix existing project health |
 | xRelease | `$xrelease` | Verify readiness and perform authorized delivery |
+| xClose | `$xclose` | Confirm a session can safely end |
+
+xClose can follow any skill when you are ready to end the session. It checks closure without repeating the preceding workflow or requiring a release.
 
 ## Installation
 

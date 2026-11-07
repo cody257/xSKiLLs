@@ -1,0 +1,4 @@
+interface:
+  display_name: "xClose"
+  short_description: "Check whether a session can safely end"
+  default_prompt: "Use $xclose to check whether this session can safely end and identify anything unfinished."
